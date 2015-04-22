@@ -1,0 +1,32 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "chaos2007@gmail.com",
+    "longName": "Doctor who stopwatch",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "characterRegex": "[0-9:. ]",
+                "file": "fonts/DoctorWhat.ttf",
+                "name": "FONT_DOCTOR_WHO_50",
+                "type": "font"
+            },
+            {
+                "file": "images/Doctor_Who_Logo2.png",
+                "name": "IMAGE_DOCTOR_WHO_LOGO",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "2",
+    "shortName": "Doctor who stopwatch",
+    "uuid": "5c78baa2-0916-4148-a63a-d6140d851d83",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
